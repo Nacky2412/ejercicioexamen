@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="0.0.14">
+	<chanel>
+		<title>Ultimas noticias sobre portatiles gaming</title>
+		<link>http://localhost/index.html</link>
+		<description>Noticias sobre los ultimos portatiles gaming que han salido al mercado</description>
+		
+		<item>
+			<title>Mejor Portatil MSI</title>
+			<link>https://www.pccomponentes.com/msi-gp75-leopard-9sf-1037xes-intel-core-i7-9750h-16gb-1tb-ssd-rtx-2070-173?__cn_tracker=5c2cbcd56400702a10580a57</link>
+			<description>Mejor portatil calidad-precio de gama alta, con una 2070, un i7 de 9ª, 16gm de RAM y 1TB de SSD</description>
+		</item>
+
+		<item>
+			<title>Mejor Portatil Asus</title>
+			<link>https://www.pccomponentes.com/asus-tuf-gaming-fx505gt-bq024-intel-core-i7-9750h-16gb-1tb-256gb-ssd-gtx-1650-156</link>
+			<description>Mejor portatil calidad-precio de gama medio-alta con una 1650, 1TB HDD, 256GB SSD, 16 GB de RAM, i7 de 9ª</description>
+		</item>
+
+		<item>
+			<title>Mejor Portatl HP Omen</title>
+			<link>https://www.pccomponentes.com/hp-omen-15-dh0015ns-intel-core-i7-9750h-32gb-512gb-ssd-gtx-1660ti-156</link>
+			<description>Mejor portatil calidad-precio de gama alta, con una 1660Ti, i7 de 9ª, 32Gb de RAM, 512Gb de SSD</description>
+		</item>
+
+	</chanel>
+</rss>

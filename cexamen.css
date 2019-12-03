@@ -61,6 +61,16 @@ a{
 	color:white;
 	text-decoration: none;
 }
+#rss{
+	
+	padding: 0px;
+	margin-bottom: 0px;
+	background-color: unset;
+	box-shadow: 0 0px 0px;
+}
+#rss:hover{
+	background-color:unset;
+}
 /*Fin menu*/
 /*Calendario*/
 @media screen and (max-width:720px) {
