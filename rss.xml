@@ -2,26 +2,54 @@
 
 <rss version="2.0">
 	<channel>
-		<title>Ultimas noticias sobre portatiles gaming</title>
+		<title>Ultimas noticias sobre portatiles gaming</title> 
 		<link>http://pruebalmgsi-pruebalmgsi.apps.ca-central-1.starter.openshift-online.com/</link>
 		<description>Noticias sobre los ultimos portatiles gaming que han salido al mercado</description>
-		
+		<managingEditor>n.velazquezguillen@iesrodmarin.com</managingEditor> <!--este atributo muestra el correo del autor -->
+		<language>es</language><!-- Este atributo muestra el idioma de los articulos-->
+		<webMaster>n.velazquezguillen@iesrodmarin.com</webMaster><!-- Muestra el correo del webmaster-->
+		<lastbuildDate>17/12/2019</lastbuildDate><!--Muestra la ultima vez que se modifico contenido del rss -->
+		<generator>Visual Studio Code</generator><!-- Especifica el programa utilizado para editar la feed-->
+		<copyright>none</copyright><!-- muestra el copyright de la feed-->
+		<docs>http://pruebalmgsi-pruebalmgsi.apps.ca-central-1.starter.openshift-online.com/rss.xml</docs><!-- muestra un enlace a la documentacion-->
+		<ttl>5</ttl><!-- muestra cada cuanto tiempo en minutos se refresca-->
+		<image><url>/imagenes/rss.png</url></image><!-- muestra una imagen cuando se añade al feed-->
+		<rating>none</rating><!-- mostraria imagenes que clasifican la feed-->
+		<cloud>none</cloud><!-- permite mostrar notificaciones al actualizar la feed-->
+		<textInput><description>Search Google</description>
+			<title>Search</title>
+			<link>http://www.google.no/search?</link>
+			<name>q</name>
+		</textInput><!-- muestra un campo de texto que se muestra con la feed-->
+		<skipDays>Lunes</skipDays><!-- especifica que dias no se debe refrescar la feed -->
+		<skipHours>9:00-12:00</skipHours><!-- especifica que horas no se debe refrescar la feed -->
+		<pubdate>17/12/20019</pubdate><!-- Muestra la ultima fecha de publicacion-->
+		<category>IT/Internet/Web development</category><!-- muestra una o varias categorias de la feed-->
+
 		<item>
 			<title>Mejor Portatil MSI</title>
 			<link>https://www.pccomponentes.com/msi-gp75-leopard-9sf-1037xes-intel-core-i7-9750h-16gb-1tb-ssd-rtx-2070-173?__cn_tracker=5c2cbcd56400702a10580a57</link>
 			<description>Mejor portatil calidad-precio de gama alta, con una 2070, un i7 de 9ª, 16gm de RAM y 1TB de SSD</description>
+			<source url="https://www.pccomponentes.com">PComponentes</source>
+			<author>n.velazquezguillen@iesrodmarin.com</author>
+			
+			
 		</item>
 
 		<item>
 			<title>Mejor Portatil Asus</title>
 			<link>https://www.pccomponentes.com/asus-tuf-gaming-fx505gt-bq024-intel-core-i7-9750h-16gb-1tb-256gb-ssd-gtx-1650-156</link>
 			<description>Mejor portatil calidad-precio de gama medio-alta con una 1650, 1TB HDD, 256GB SSD, 16 GB de RAM, i7 de 9ª</description>
+			<enclosure url="https://www.w3schools.com/media/3d.wmv" length="78645" type="video/wmv" />
+			<guid>https://www.w3schools.com/xml/item0768</guid>
 		</item>
 
 		<item>
 			<title>Mejor Portatl HP Omen</title>
 			<link>https://www.pccomponentes.com/hp-omen-15-dh0015ns-intel-core-i7-9750h-32gb-512gb-ssd-gtx-1660ti-156</link>
 			<description>Mejor portatil calidad-precio de gama alta, con una 1660Ti, i7 de 9ª, 32Gb de RAM, 512Gb de SSD</description>
+			<category>News</category>
+			<comments>https://www.w3schools.com/xml/comments.asp</comments>
 		</item>
 		<item>
 			<title>Mejor Portatl HP cOmen</title>
