@@ -13,11 +13,7 @@
 		<copyright>none</copyright><!-- muestra el copyright de la feed-->
 		<docs>http://pruebalmgsi-pruebalmgsi.apps.ca-central-1.starter.openshift-online.com/rss.xml</docs><!-- muestra un enlace a la documentacion-->
 		<ttl>5</ttl><!-- muestra cada cuanto tiempo en minutos se refresca-->
-		<image>
-			<url>https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSD_slXMwaRfOD_QumhSRErDpVnXLiNk_76sPOKB1VQGqZPd5x07f51xgg0-U0P5UQzLsTFgoKdQ&usqp=CAc/url>
-			<title>W3Schools.com</title>
-			<link>https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSD_slXMwaRfOD_QumhSRErDpVnXLiNk_76sPOKB1VQGqZPd5x07f51xgg0-U0P5UQzLsTFgoKdQ&usqp=CAc</link>
-		</image><!-- muestra una imagen cuando se añade al feed-->
+		
 		<rating>none</rating><!-- mostraria imagenes que clasifican la feed-->
 		<cloud domain="www.w3schools.com" port="80" path="/RPC" registerProcedure="NotifyMe" protocol="xml-rpc" /><!-- permite mostrar notificaciones al actualizar la feed-->
 		<textInput><description>Search Google</description>
@@ -40,7 +36,11 @@
 			<description>Mejor portatil calidad-precio de gama alta, con una 2070, un i7 de 9ª, 16gm de RAM y 1TB de SSD</description>
 			<source url="https://www.pccomponentes.com">PComponentes</source><!-- pagina de donde se4 obtuvo la informacion-->
 			<author>n.velazquezguillen@iesrodmarin.com</author><!-- email del autor del articulo-->
-			
+			<image>
+			<url>https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSD_slXMwaRfOD_QumhSRErDpVnXLiNk_76sPOKB1VQGqZPd5x07f51xgg0-U0P5UQzLsTFgoKdQ&usqp=CAc/url>
+			<title>W3Schools.com</title>
+			<link>https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSD_slXMwaRfOD_QumhSRErDpVnXLiNk_76sPOKB1VQGqZPd5x07f51xgg0-U0P5UQzLsTFgoKdQ&usqp=CAc</link>
+			</image><!-- muestra una imagen cuando se añade al feed-->
 			
 		</item>
 
