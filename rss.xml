@@ -64,6 +64,7 @@
 			<title>Prueba de RSS</title>
 			<link>https://www.pccomponentes.com/hp-omen-15-dh0015ns-intel-core-i7-9750h-32gb-512gb-ssd-gtx-1660ti-156</link>
 			<description>Esto es una prueba para ver si actualiza e lector de RSS</description>
+			<enclosure url="https://png.pngtree.com/png-clipart/20190604/original/pngtree-computer-png-image_822703.jpg" type="image/jpg" />
 		</item>
 
 	</channel>
