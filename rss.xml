@@ -14,9 +14,9 @@
 		<docs>http://pruebalmgsi-pruebalmgsi.apps.ca-central-1.starter.openshift-online.com/rss.xml</docs><!-- muestra un enlace a la documentacion-->
 		<ttl>5</ttl><!-- muestra cada cuanto tiempo en minutos se refresca-->
 		<image>
-			<url>https://www.w3schools.com/images/logo.gif</url>
+			<url>https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSD_slXMwaRfOD_QumhSRErDpVnXLiNk_76sPOKB1VQGqZPd5x07f51xgg0-U0P5UQzLsTFgoKdQ&usqp=CAc/url>
 			<title>W3Schools.com</title>
-			<link>https://www.w3schools.com</link>
+			<link>https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSD_slXMwaRfOD_QumhSRErDpVnXLiNk_76sPOKB1VQGqZPd5x07f51xgg0-U0P5UQzLsTFgoKdQ&usqp=CAc</link>
 		</image><!-- muestra una imagen cuando se añade al feed-->
 		<rating>none</rating><!-- mostraria imagenes que clasifican la feed-->
 		<cloud domain="www.w3schools.com" port="80" path="/RPC" registerProcedure="NotifyMe" protocol="xml-rpc" /><!-- permite mostrar notificaciones al actualizar la feed-->
