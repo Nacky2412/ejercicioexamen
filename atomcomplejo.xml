@@ -6,12 +6,23 @@
     <link rel="self" type="application/atom+xml" href="http://pruebalmgsi-pruebalmgsi.apps.ca-central-1.starter.openshift-online.com/atomsencillo.xml" />
     <link rel="alternate" type="text/html" href="http://pruebalmgsi-pruebalmgsi.apps.ca-central-1.starter.openshift-online.com/"/>
     <updated>2019-01-11T19:20:46Z</updated>
+    <rights>Copyright (c) 2003, Mark Pilgrim</rights> <!--Añade una nota de copyright a la feed-->
+    <logo>https://www.adslzone.net/app/uploads/2020/01/android-malware-virus.jpg</logo>
+    <icon>/imagenes/rss.png</icon>
+    <subtitle>Borra todo lo que necesites con seguridad</subtitle>
+    <generator uri="https://code.visualstudio.com/" version="1.0"><!--Muestra el sistema que has usado para realizar el xml-->
+        Visual Studio Code
+    </generator>
     <author>
-        <name>Nacor Velazquez Guillen</name>
+        <name> Nacor Velazquez Guillen </name>
         <email>nackyvelgui@gmail.com</email>
     </author>    <!--Se definen las secciones que forman el canal-->
     <entry>
+        <published>2019-01-11T19:20:46Z</published>
+        
         <title>Cómo limpiar Windows 10 a fondo</title>
+        <!-- titulo de la entrada -->
+        
         <link rel="alternate" type="text/html" href="https://www.xataka.com/basics/como-limpiar-windows-10-a-fondo-borra-que-no-necesitas-seguridad/amp" />
         <updated>2019-01-11T19:20:46Z</updated>
         <id>https://www.xataka.com/basics/como-limpiar-windows-10-a-fondo-borra-que-no-necesitas-seguridad/amp</id>
@@ -19,17 +30,27 @@
             <name>Nacor Velazquez Guillen</name>
             <email>nackyvelgui@gmail.com</email>
         </author>
+        <category term="Windows10"/>
+        <!-- Muestra una categoria en la que se incluye la entrada -->
         <summary>Cómo limpiar Windows 10 a fondo: borra lo que no necesitas con seguridad</summary>
+
     </entry>
     <entry>
         <title>Este virus en Android te vacía la cuenta bancaria enviando SMS</title>
         <link rel="alternate" type="text/html" href="https://www.adslzone.net/2020/01/13/faketoken-virus-android-dinero/amp/"/>
         <updated>2019-01-11T19:20:46Z</updated>
         <id>https://www.adslzone.net/2020/01/13/faketoken-virus-android-dinero/amp/</id>
-        <author>
+        <contributor><!--Establece un contribuyente que ayuda a realizar la entrada-->
+            <name>Juan Carlos Botella</name>
+            <email>jc.botellajimenez@iesrodmarin.com</email>
+        </contributor>
+        
+        
+        <author><!--Muestra informacion sobre el creador del feed-->
             <name>Nacor Velazquez Guillen</name>
             <email>nackyvelgui@gmail.com</email>
         </author>
         <summary>Noticia sobre uno de los ultimos virus desarrollados para android el cual conlleva consecuencias fatales</summary>
+        <!-- Muestra descripcion de la entrada -->
     </entry>
 </feed>
